@@ -77,6 +77,4 @@ src/
 └── routes.tsx      # Application routing
 ```
 
-## License
 
-This project is provided as-is for educational purposes.
